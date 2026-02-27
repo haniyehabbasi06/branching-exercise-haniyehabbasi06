@@ -1,4 +1,6 @@
+import sys
 from src.auth import UserAuthenticator
+#from src.auth import UserAuthenticator
 
 def main():
     auth = UserAuthenticator()
